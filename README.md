@@ -5,7 +5,7 @@ The Point of Sale System works simply by logging in with the registered username
 The Point of Sale System or POS System is built fully in Java and MySQL Database. It has full-featured Graphical User Interface (GUI) with all the functionalities required by the Stores to improved their customer satisfaction.
 
 Step 1: Extract file.
-Next, after you finished download the source code, extract the zip file.
+Next, after you finished downloading the source code, extract the zip file.
 
 ![image](https://user-images.githubusercontent.com/6866702/165156085-41081433-3343-4f82-93c2-ee9596848e1d.png)
 
